@@ -8,7 +8,7 @@ This Tableau dashboard analyzes restaurant data using interactive KPIs and visua
 
 * Tableau
 * Excel
-##
+## Dashboard Interaction : <a href = "https://github.com/Rameshvari-Kedari/Restaurant_analysis_Tableu/blob/main/Restaurant%20Analysis.twbx">View Dashboard</a> 
 ## Dashboard Features
 
 * Restaurant Ratings Analysis
