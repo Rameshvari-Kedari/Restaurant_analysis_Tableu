@@ -23,9 +23,15 @@ This Tableau dashboard analyzes restaurant data using interactive KPIs and visua
 Restaurant Analysis Dataset
 
 ## Dashboard Preview
-Dashoard Ineraction : <a href="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/832f2890-e5a9-4f48-83c6-518953575a07" />
-"></a>
-
+Dashoard Ineraction : 
+<a href="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4618d6be-8e82-4433-854a-a10bec521359" />
+" />"></a>
+ <a href="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d87a818-9875-4e93-afc8-9a2c43deee61" />
+/>"></a>
+  <a href="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fba7c2ea-bc36-43bc-8cfb-85122a796a1d" />
+/>"></a>
+   <a href="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2068e12f-3e8f-4f4c-a174-37ea5d767723" />
+/>"></a>
 
 ## Key Insights
 
