@@ -35,11 +35,20 @@ Restaurant Analysis Dataset
 
 ## Key Insights
 
-* Identifies the highest-rated restaurants.
-* Compares restaurants across different price ranges.
-* Analyzes the popularity of various cuisines.
-* Shows restaurant distribution by location.
-* Highlights customer preferences based on ratings and votes.
+* The dataset contains 452 restaurants across 15 cities and 5 restaurant types.
+* Mumbai has the highest concentration of restaurants.
+* Most restaurants fall under the Average Rating category.
+* Bakery is the most common restaurant type.
+* Premium customers book tables more frequently than regular customers.
+* Bakery restaurants have the highest average customer spending (₹1,289).
+* Customer ratings show no strong relationship with delivery time.
+* Fast Food restaurants have the highest average profit margin.
+* Indore generates the highest average profit among all cities.
+* Higher restaurant popularity does not always result in higher profitability.
+* Hughes Ltd Restaurant has the highest popularity score.
+* Ahmedabad and Hyderabad have the highest average popularity scores.
+* Restaurants with higher ratings generally achieve higher popularity scores.
+* Average customer ratings are similar across all restaurant types.
 
 ## How to Open
 
